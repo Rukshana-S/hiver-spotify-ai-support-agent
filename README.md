@@ -2,7 +2,6 @@
 
 An AI-powered customer support agent built to resolve Spotify Customer Support Twitter conversations autonomously using RAG, Semantic Search, and Confidence-based Human Escalation.
 
-![Final Dashboard Screenshot Placeholder](screenshots/dashboard_placeholder.png)
 
 ## Problem Statement
 
